@@ -23,7 +23,10 @@ Add your timetable using ```<td>``` tag.
 ### STEP 6
 Execute the program using runserver command.
 
-#<table border="2" cellspacing="12" cellpadding="12">
+
+# PROGRAM
+```
+<table border="2" cellspacing="12" cellpadding="12">
     <caption>Timetable</caption>
     <tr bgcolor="cyan">
         <th>time & day</th>
@@ -82,8 +85,7 @@ Execute the program using runserver command.
         <td>96</td>
     </tr>
 </table>
-# PROGRAM
-
+```
 
 ## OUTPUT
 ![Screenshot (3)](https://github.com/user-attachments/assets/251ccb7f-a429-4086-b764-6c19ab6cef82)
