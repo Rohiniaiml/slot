@@ -25,11 +25,11 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
-table border="2" cellspacing="12" cellpadding="12">
+<table border="2" cellspacing="12" cellpadding="12">
     <caption>Timetable</caption>
     <tr bgcolor="cyan">
         <th>time & day</th>
-        <tr>MON</th>
+        <th>MON</th>
         <th>TUE</th>
         <th>WED</th>
         <th>THUR</th>
@@ -63,34 +63,45 @@ table border="2" cellspacing="12" cellpadding="12">
         <td>WEB</td>
         <td>WEB</td>
 </tr>
-</table><table border="2" cellspacing="12" cellpadding="12">
+</table>
+<table border="2" cellspacing="12" cellpadding="12">
     <caption>Marksheet</caption>
     <tr bgcolor="cyan">
         <th>S.No</th>
         <th>Name</th>
         <th>Subject</th>
-        <th>Marks</th>
     </tr>
     <tr>
         <td>1</td>
-        <td>AAA</td>
-        <td bgcolor="yellow">WEB</td>
-        <td>98</td>
+        <td>physics</td>
+        <td>SH3214</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>BBB</td>
-        <td>C PROG</td>
-        <td>96</td>
+        <td>python and linear algebra </td>
+        <td>19AI301c</td>
     </tr>
-</table>
+    <tr>
+        <td>3</td>
+        <td>english</td>
+        <td>19EN101</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>WEB</td>
+        <td>19AI414</td>
+    </tr>
+    </table>
+</body>
+<html>
+
 
 ```
 
 
 ## OUTPUT
-![alt text](<Screenshot (3)-2.png>)
-</table>
+![alt text](<Screenshot 2024-12-15 001206.png>)
+
 
 
 ## RESULT
