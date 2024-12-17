@@ -25,8 +25,11 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
+<html>
+<body>
+    <img src="logo.png" height="100" width="600">
 <table border="2" cellspacing="12" cellpadding="12">
-    <caption>Timetable</caption>
+    <caption> SLOT TIMETABLE ROHINI(24005989)</caption>
     <tr bgcolor="cyan">
         <th>time & day</th>
         <th>MON</th>
@@ -63,33 +66,34 @@ Execute the program using runserver command.
         <td>WEB</td>
         <td>WEB</td>
 </tr>
+
 </table>
-<table border="2" cellspacing="12" cellpadding="12">
-    <caption>Marksheet</caption>
-    <tr bgcolor="cyan">
-        <th>S.No</th>
-        <th>Name</th>
-        <th>Subject</th>
+   <table border="2" cellspacing="12" cellpadding="12">
+      <caption>Marksheet</caption>
+      <tr bgcolor="cyan">
+          <th>S.No</th>
+          <th>Name</th>
+          <th>Subject</th>
     </tr>
     <tr>
-        <td>1</td>
-        <td>physics</td>
-        <td>SH3214</td>
+          <td>1</td>
+          <td>physics</td>
+          <td>SH3214</td>
     </tr>
     <tr>
-        <td>2</td>
-        <td>python and linear algebra </td>
-        <td>19AI301c</td>
+          <td>2</td>
+          <td>python and linear algebra </td>
+          <td>19AI301c</td>
     </tr>
     <tr>
-        <td>3</td>
-        <td>english</td>
-        <td>19EN101</td>
+          <td>3</td>
+          <td>english</td>
+          <td>19EN101</td>
     </tr>
     <tr>
-        <td>4</td>
-        <td>WEB</td>
-        <td>19AI414</td>
+          <td>4</td>
+          <td>WEB</td>
+          <td>19AI414</td>
     </tr>
     </table>
 </body>
@@ -100,7 +104,7 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](<Screenshot 2024-12-17 085328.png>)
+![alt text](<Screenshot 2024-12-17 092405.png>)
 
 
 
